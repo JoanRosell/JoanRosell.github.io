@@ -70,7 +70,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/JoanRosellR"
     - label: "GitHub"
-      icon: "fab fa-github"
+      icon: "fab fa-fw fa-inverse fa-github"
       url: "https://github.com/JoanRosell"
 
 footer:
