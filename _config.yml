@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Joan rosell"
+  name   : "Joan Rosell"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Aspiring software developer from Barcelona."
+  bio    : "Computer Science student from Barcelona."
   location : "Barcelona, Spain"
   links:
     - label: "Website"
