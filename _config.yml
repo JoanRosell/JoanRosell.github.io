@@ -21,7 +21,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 twitter_username: JoanRosellR
 github_username: JoanRosell
-minimal_mistakes_skin: dark
 search: false
 
 # Build settings
@@ -63,27 +62,28 @@ author:
   bio    : "Computer Science student from Barcelona."
   location : "Barcelona, Spain"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/JoanRosellR"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github fa-inverse"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/JoanRosell"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/joan-rosell-rodr%C3%ADguez-211182110/"
 
 footer:
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/JoanRosellR"
     - label: "GitHub"
       icon: "fab fa-fw fa-github fa-inverse"
       url: "https://github.com/JoanRosell"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/joan-rosell-rodr%C3%ADguez-211182110/"
+  
 
 defaults:
   # _posts
