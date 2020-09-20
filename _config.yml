@@ -25,7 +25,7 @@ search: false
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/jekyll-theme-basically-basic"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -83,7 +83,7 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/joan-rosell-rodr%C3%ADguez-211182110/"
-  
+
 
 defaults:
   # _posts
